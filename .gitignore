@@ -1,0 +1,45 @@
+# Built Assets
+node_modules/
+build/
+external/
+debugger/devtools
+
+# MAC
+.DS_Store
+
+# Temp files
+*.log
+
+# Caches
+.sass-cache
+_site
+
+# Coverage
+coverage
+
+/**/rebel.xml
+
+#target/
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+
+# Log #
+logs/
+*.log%
+
+#mac
+.DS_Store
+
+#svn
+.svn
+#reviewboardrc
+#.reviewboardrc
+
